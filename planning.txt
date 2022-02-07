@@ -1,0 +1,14 @@
+Display Kanji in cmd
+
+
+2138 lines
+
+factors in deciding the score:
+
+. Grade Level 200
+. JLPT ranking 170
+. freq_count 150
+. freq_percentage 150
+. stroke (2/x)*150
+. time taken last time to decide 100
+. correctness of last time 100
